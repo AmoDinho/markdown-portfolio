@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+### Fav Emojis
+
+* :smile:
+* :sparkles:
+
+### Least Fav Emojis
+
+1. :heart:
+2. :tada: 
